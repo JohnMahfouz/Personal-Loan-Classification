@@ -84,10 +84,3 @@ A summary of the performance of all models:
 
 ---
 
-## ▶️ How to Run the Code
-
-1. Make sure you have Python installed (version 3.7 or above).
-2. Install the required libraries using pip:
-
-   ```bash
-   pip install pandas numpy matplotlib seaborn openpyxl scikit-learn
